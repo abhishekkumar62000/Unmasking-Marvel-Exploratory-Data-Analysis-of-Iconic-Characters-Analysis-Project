@@ -1,6 +1,6 @@
 # Unmasking-Marvel-Exploratory-Data-Analysis-of-Iconic-Characters-Analysis-Project
 ![pngwing com](https://github.com/user-attachments/assets/b81f3102-adf8-4fad-9762-457c34118487)
-![pngwing com (1)](https:/![pngwing com (2)](https://github.com/user-attachments/assets/ba6286aa-6f5b-4bc8-a7f2-0b8c2a5d9bd9)
+![pngwing com (1)](https://github.com/user-attachments/assets/dcca6d7c-9913-48cd-93fb-d6ab138a599e)
 ![pngwing com (2)](https://github.com/user-attachments/assets/56fa62b1-3c3a-4950-b5dc-963bf228a2a4)
 
 # 🌌 **Unmasking Marvel: Exploratory Data Analysis of Iconic Characters** 🦸‍♂️🦸‍♀️  
